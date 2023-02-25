@@ -1,19 +1,19 @@
 .one {
   width: 250px;
   height: 250px;
-  background-color: blue;
+  background-color: lightcoral;
   margin-left: 110px;
 }
 
 .two {
   width: 500px;
   height: 350px;
-  background-color: red;
+  background-color: lightblue;
 }
 
 .three {
   width: 250px;
   height: 250px;
-  background-color: black;
+  background-color: green;
   margin-left: 110px;
 }
